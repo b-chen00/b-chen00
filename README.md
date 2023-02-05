@@ -1,4 +1,5 @@
 ## 👋 About Me
+
 Hello! My name is Brandon. I was born in May 2002 and I am currently a junior at NYU with an aspiration to be a software engineer. I have lived in NYC all of my life but I am always looking to broaden my horizons in life. Undoubtably, technology and programming has grown to be a large part of my life. Coding has become my way of connecting people and making the world a better place with the applications I create. Software engineering can improve and enrich lives in many different sectors from business to health to entertainment and I want to be at the center of it. I want to learn about cool technology, meet even cooler people, and chase after my ambitions.
 
 ## 🔭 I’m currently working on ...
@@ -7,7 +8,9 @@ Hello! My name is Brandon. I was born in May 2002 and I am currently a junior at
 ## 🌱 I’m currently learning ...
 
 ## 📫 How to reach me: ...
+
 Email: bc2982@nyu.edu
+
 Phone: +1-917-624-3639
 
 ## ⚡ Fun fact:

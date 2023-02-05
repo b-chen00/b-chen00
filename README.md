@@ -4,8 +4,11 @@ Hello! My name is Brandon. I was born in May 2002 and I am currently a junior at
 
 ## 🔭 I’m currently working on ...
 
+I am currently looking to get more experience as a software engineer, mostly likely through an internship, so I can meet new people and experience new things. Other than that, I am also curently working on a Hobby sharing blog which I currently have deployed on AWS. It was built using React.js and Express.js. I plan to greatly expand this project and add unit testing with Jest and Mocha as well as CI/CD. Socket.IO will be added in the future along with various post input types. I am also working on improving the UI/UX as well as authentication security. Overall, there is a lot I want to do.
 
 ## 🌱 I’m currently learning ...
+
+I am currently learning about React.js, SCRUM methodology, agile development, and DevOps. In the near future, I plan to explore Scala, Go, React Native, TypeScript, and many others.
 
 ## 📫 How to reach me: ...
 
@@ -14,7 +17,9 @@ Email: bc2982@nyu.edu
 Phone: +1-917-624-3639
 
 ## ⚡ Fun fact:
+
 I would love to have a koi pond / koi fish collection. They are very pretty.
+
 <!--
 **b-chen00/b-chen00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

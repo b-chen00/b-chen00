@@ -14,8 +14,6 @@ I am currently learning about React.js, SCRUM methodology, agile development, an
 
 Email: bc2982@nyu.edu
 
-Phone: +1-917-624-3639
-
 ## ⚡ Fun fact:
 
 I would love to have a koi pond / koi fish collection. They are very pretty.
